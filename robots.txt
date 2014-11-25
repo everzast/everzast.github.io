@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://everzast.com/sitemap.xml 
