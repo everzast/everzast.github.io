@@ -4,7 +4,7 @@
   <title><![CDATA[Zombie Apocolypse Survival Training (ZAST or EverZast)]]></title>
   <link href="http://everzast.com/atom.xml" rel="self"/>
   <link href="http://everzast.com/"/>
-  <updated>2014-11-25T22:48:20-08:00</updated>
+  <updated>2014-11-25T22:55:05-08:00</updated>
   <id>http://everzast.com/</id>
   <author>
     <name><![CDATA[Mark Fussell]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Free Your Mind!]]></title>
+    <link href="http://everzast.com/blog/redundancy/"/>
+    <updated>2014-11-26T06:15:00-08:00</updated>
+    <id>http://everzast.com/blog/redundancy</id>
+    <content type="html"><![CDATA[<p>Strangely the second most important skill to &ldquo;Freeing Your Mind&rdquo; will be redundancy.</p>
+
+<p>Redundancy is the art of having a &ldquo;live&rdquo; equivalent or &ldquo;hot&rdquo; spare to basically everything.
+If you have this, and one item fails (Zombie Alert Warning: ZAW), then the backup item (ZAW2) is <em>incredibly</em>
+unlikely to fail at exactly the same time.   If ZAW1 and ZAW2 fail at <em>exactly</em> the same time, then you do
+no have a real ZAW at all.</p>
+
+<p>Redundancy is incredibly valuable in all things.  Except in marriage.  Monogamy is clearly superior.  But even then you
+should have a Hot Spare readily available.  Because you never know do you?  Zombies and all!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Free Your Mind!]]></title>
