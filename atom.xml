@@ -4,7 +4,7 @@
   <title><![CDATA[Zombie Apocolypse Survival Training (ZAST or EverZast)]]></title>
   <link href="http://everzast.com/atom.xml" rel="self"/>
   <link href="http://everzast.com/"/>
-  <updated>2014-11-25T22:57:05-08:00</updated>
+  <updated>2014-11-25T22:58:35-08:00</updated>
   <id>http://everzast.com/</id>
   <author>
     <name><![CDATA[Mark Fussell]]></name>
@@ -21,9 +21,9 @@
     <content type="html"><![CDATA[<p>Strangely the second most important skill after &ldquo;Freeing Your Mind&rdquo; will be redundancy.</p>
 
 <p>Redundancy is the art of having a &ldquo;live&rdquo; equivalent or &ldquo;hot&rdquo; spare to basically everything.
-If you have this, and one item fails (Zombie Alert Warning System: ZAWS), then the backup item (ZAW2S) is <em>incredibly</em>
-unlikely to fail at exactly the same time.   If ZAWS1 and ZAWS2 fail at <em>exactly</em> the same time, then you do
-no have a real ZAWS at all, and we will deal with avoiding that later.</p>
+If you have this, and one item fails (Zombie Alert Warning System: ZAWS), then the backup item (ZAW2) is <em>incredibly</em>
+unlikely to fail at exactly the same time.   If ZAWS1 and ZAWS2 fail at <em>exactly</em> the same time, then you did not
+have a real ZAWS at all, and we will deal with avoiding that problem later (you do know what QA is right?).</p>
 
 <p>Redundancy is incredibly valuable in all things.  Except in marriage.  Monogamy is clearly superior.  But even then you
 should have a Hot Spare readily available.  Because you never know do you?  Zombies and all!</p>
