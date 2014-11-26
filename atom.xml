@@ -4,7 +4,7 @@
   <title><![CDATA[Zombie Apocolypse Survival Training (ZAST or EverZast)]]></title>
   <link href="http://everzast.com/atom.xml" rel="self"/>
   <link href="http://everzast.com/"/>
-  <updated>2014-11-26T03:37:11-08:00</updated>
+  <updated>2014-11-26T09:00:01-08:00</updated>
   <id>http://everzast.com/</id>
   <author>
     <name><![CDATA[Mark Fussell]]></name>
@@ -14,9 +14,28 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Get In Shape!]]></title>
+    <link href="http://everzast.com/blog/get-in-shape/"/>
+    <updated>2014-11-29T06:15:00-08:00</updated>
+    <id>http://everzast.com/blog/get-in-shape</id>
+    <content type="html"><![CDATA[<p>Yes, zombies are slow.  But maybe not.  And velociraptors aren&rsquo;t slow.  And some things are wicked fast but can&rsquo;t climb.</p>
+
+<p>It takes a good bit of time to get in good shape, and without electricity or running water, I am pretty sure the YMCA
+will not be a great place to hang out.  So get in shape now.  Learn to run a couple miles.  Most animals and zombies give
+up during the second mile.  Learn to do a pull up.  Then twenty.  Good, now you can climb a tree.</p>
+
+<p>And try to get rid of some of that excess fat.  Yes, I know, fat tastes good, but I don&rsquo;t think you want to literally be
+a tasty morsel.</p>
+
+<p>Oh, and pass the word along to anyone you love.  We are trying to keep our community, so the maxim &ldquo;Run faster than someone else&rdquo;
+is not what you are looking for.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Shun Electricity!]]></title>
     <link href="http://everzast.com/blog/shun-electricity/"/>
-    <updated>2014-11-27T06:15:00-08:00</updated>
+    <updated>2014-11-28T06:15:00-08:00</updated>
     <id>http://everzast.com/blog/shun-electricity</id>
     <content type="html"><![CDATA[<p>I love electricity as much as the next person who stuck two pieces of metal into the wall sockets and arced between them, blowing out the circuit,
 and frying the pennies (in my case).  I have an electric phone, rode an electric motorcycle, lust for an electric car, and
