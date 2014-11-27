@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/dev/projs/StoresSVN" value="1382652298000" />
+        <entry key="$USER_HOME$/dev/projs2/StoresExample2" value="1383930148000" />
+        <entry key="$USER_HOME$/dev/projs2/pricing-service" value="1383945016000" />
+        <entry key="$USER_HOME$/dev/svnrepo/gap_s2c_snapdevice_trunk2" value="1391643940000" />
+        <entry key="$USER_HOME$/dev/svnrepo/gap_s2c_snapsell-fusion1_trunk" value="1392267042000" />
+        <entry key="$USER_HOME$/dev/svnrepo/gap_s2c_snapsell-fusion2_trunk" value="1392085274000" />
+        <entry key="$USER_HOME$/dev/svnrepo/gap_s2cdisapp_trunk2" value="1386045016000" />
+        <entry key="$USER_HOME$/dev/svnrepo/gap_sis_AuthService_trunk3" value="1388256217000" />
+        <entry key="$USER_HOME$/dev/svnrepo/gap_webpos-deviceintegration_s2cdisapp_trunk" value="1386350802000" />
+        <entry key="$USER_HOME$/dev/svnrepo/gap_webpos-services_trunk" value="1385668577000" />
+        <entry key="$USER_HOME$/dev/svnrepo/gap_webpos-services_trunk3" value="1389239693000" />
+        <entry key="$USER_HOME$/dev/svnrepo/gap_webpos-services_trunk4" value="1391452110000" />
+        <entry key="$USER_HOME$/dev/svnrepo/gap_webpos-services_trunk5" value="1392139969000" />
+        <entry key="$USER_HOME$/dev/svnrepo/gap_webpos-services_trunkClean" value="1388900831000" />
+        <entry key="$USER_HOME$/dev/svnrepo/gap_webpos_snapdevice_trunk" value="1389631734000" />
+        <entry key="$USER_HOME$/dev/svnrepo/gap_webpos_trunk2" value="1390959565000" />
+        <entry key="$PROJECT_DIR$/../greendale" value="1394813718000" />
+        <entry key="$PROJECT_DIR$/../s2cposrepo1/soft/s2cdispoc6" value="1384367063000" />
+        <entry key="$PROJECT_DIR$/../s2cposrepo1/soft/snapdevice" value="1385082144000" />
+      </map>
+    </option>
+  </component>
+  <component name="IdProvider" IDEtalkID="64AA3ECCFC3E1ACFE8DDF9371F5566F4" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Python 3.3.5 (/usr/local/bin/python3.3)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4175" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
