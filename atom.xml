@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Zombie Apocolypse Survival Training (ZAST or EverZast)]]></title>
+  <title><![CDATA[Zombie Apocolypse Survival Training (ZAST)]]></title>
   <link href="http://everzast.com/atom.xml" rel="self"/>
   <link href="http://everzast.com/"/>
-  <updated>2014-11-27T18:39:58-08:00</updated>
+  <updated>2014-11-27T18:43:29-08:00</updated>
   <id>http://everzast.com/</id>
   <author>
     <name><![CDATA[Mark Fussell]]></name>
