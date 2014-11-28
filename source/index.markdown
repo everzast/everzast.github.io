@@ -14,7 +14,7 @@ describing all kinds of nasty futures.  What if they are right?  And I wasn't pr
 So this site is about preparing for the coming zombie apocalypse or similar event.  Read on or move along.
 
 This site is not about going to hide out in a shelter.  After the Apoc (the start of the apocalypse... think epoc but more aweful), I would like
-a real community, ideally with friends I have now and some new ones to boot.  We might be trapped in a walled city or scrounging the wastelands
+a real community, ideally with friends and family I have now and some new ones to boot.  We might be trapped in a walled city or scrounging the wastelands
 for food, but we will be _together_ and _normal_.  Or at least as _normal_ as you can be after the Apoc...
 
 As you will learn, my preparation for keeping/rebuilding my community after the Apoc is actually quite rigorous, challenging, and even fun.

@@ -5,7 +5,7 @@ date: 2014-12-03 6:15
 comments: true
 ---
 
-I already wrote how you should shun electricity.  That is true unless you have your own redundant source of electricity.
+I already wrote how you should shun electricity (<http://everzast.com/blog/shun-electricity/>).  That is true unless you have your own redundant source of electricity.
 The main wires are going to all be down, so you are going to need to get another source.  You could stockpile a lot
 of gas or diesel fuel.  But you need to be mobile, so storing and transporting it is going to be a problem.  I recommend
 you watch Mad Max <http://en.wikipedia.org/wiki/Mad_Max> to get some ideas about that.  Even if "the natives" are not
