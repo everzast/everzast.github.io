@@ -4,7 +4,7 @@
   <title><![CDATA[Zombie Apocolypse Survival Training (ZAST or EverZast)]]></title>
   <link href="http://everzast.com/atom.xml" rel="self"/>
   <link href="http://everzast.com/"/>
-  <updated>2014-11-27T18:18:37-08:00</updated>
+  <updated>2014-11-27T18:19:56-08:00</updated>
   <id>http://everzast.com/</id>
   <author>
     <name><![CDATA[Mark Fussell]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Get me some electricity!]]></title>
+    <title type="html"><![CDATA[Get Me Some Electricity!]]></title>
     <link href="http://everzast.com/blog/get-me-some-electricity/"/>
     <updated>2014-12-03T06:15:00-08:00</updated>
     <id>http://everzast.com/blog/get-me-some-electricity</id>
@@ -39,7 +39,7 @@ to pick, getting a few-thousand-dollar solar solution seems the logical first st
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Drive like Jason!]]></title>
+    <title type="html"><![CDATA[Drive Like Jason!]]></title>
     <link href="http://everzast.com/blog/drive-like-jason/"/>
     <updated>2014-12-02T06:15:00-08:00</updated>
     <id>http://everzast.com/blog/drive-like-jason</id>
@@ -89,7 +89,7 @@ Which is actually <em>cooler</em>?</p>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[All about the bass]]></title>
+    <title type="html"><![CDATA[All About the Bass]]></title>
     <link href="http://everzast.com/blog/all-about-the-bass/"/>
     <updated>2014-12-01T06:15:00-08:00</updated>
     <id>http://everzast.com/blog/all-about-the-bass</id>
@@ -161,7 +161,7 @@ hours, that is probably the better way.</p>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Get In Shape!]]></title>
+    <title type="html"><![CDATA[Get in Shape!]]></title>
     <link href="http://everzast.com/blog/get-in-shape/"/>
     <updated>2014-11-29T06:15:00-08:00</updated>
     <id>http://everzast.com/blog/get-in-shape</id>
