@@ -5,7 +5,7 @@ date: 2014-12-01 6:15
 comments: true
 ---
 
-This post is specifically for the human male.  If you are either not-human or not-male, please move along....
+This post is specifically for the human male.  If you are either not-human or not-male, please move along.... <http://everzast.com/blog/drive-like-jason/>
 
 OK, now that they are gone, I am going to fix you.  Somehow society has broken some of you to thinking that
 some women are more physically attractive than other women.  This is a lie.  And if your brain is thinking this, it is
