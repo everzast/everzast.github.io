@@ -6,6 +6,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://everzast.com/blog/a-body-in-motion/</loc>
+    <lastmod>2014-12-07T06:15:00-08:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://everzast.com/blog/katana/</loc>
     <lastmod>2014-12-06T06:15:00-08:00</lastmod>
     <priority>0.8</priority>
@@ -72,55 +77,55 @@
   </url>
   <url>
     <loc>http://everzast.com/blog/</loc>
-    <lastmod>2014-11-29T01:02:23-08:00</lastmod>
+    <lastmod>2014-11-30T05:44:48-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://everzast.com/blog/archives/</loc>
-    <lastmod>2014-11-29T01:02:23-08:00</lastmod>
+    <lastmod>2014-11-30T05:44:48-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://everzast.com/</loc>
-    <lastmod>2014-11-29T01:02:23-08:00</lastmod>
+    <lastmod>2014-11-30T05:44:48-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://everzast.com/sponsors/</loc>
-    <lastmod>2014-11-29T01:02:23-08:00</lastmod>
+    <lastmod>2014-11-30T05:44:48-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://everzast.com/sample/</loc>
-    <lastmod>2014-11-29T01:02:23-08:00</lastmod>
+    <lastmod>2014-11-30T05:44:48-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://everzast.com/</loc>
-    <lastmod>2014-11-29T01:02:23-08:00</lastmod>
+    <lastmod>2014-11-30T05:44:48-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://everzast.com/contact/</loc>
-    <lastmod>2014-11-29T01:02:23-08:00</lastmod>
+    <lastmod>2014-11-30T05:44:48-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://everzast.com/synopsis/</loc>
-    <lastmod>2014-11-29T01:02:23-08:00</lastmod>
+    <lastmod>2014-11-30T05:44:48-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://everzast.com/bio/</loc>
-    <lastmod>2014-11-29T01:02:23-08:00</lastmod>
+    <lastmod>2014-11-30T05:44:48-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
