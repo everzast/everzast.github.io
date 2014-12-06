@@ -4,7 +4,7 @@
   <title><![CDATA[Zombie Apocolypse Survival Training (ZAST)]]></title>
   <link href="http://everzast.com/atom.xml" rel="self"/>
   <link href="http://everzast.com/"/>
-  <updated>2014-12-04T09:33:31-08:00</updated>
+  <updated>2014-12-06T01:15:29-08:00</updated>
   <id>http://everzast.com/</id>
   <author>
     <name><![CDATA[Mark Fussell]]></name>
@@ -12,6 +12,70 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Vehicle]]></title>
+    <link href="http://everzast.com/blog/vehicle/"/>
+    <updated>2014-12-12T06:15:00-08:00</updated>
+    <id>http://everzast.com/blog/vehicle</id>
+    <content type="html"><![CDATA[<p>I previously covered &lsquo;driving&rsquo; after the Apoc, but what should you be driving?</p>
+
+<h2>Learn Everything</h2>
+
+<p>First, you need to make sure you can drive almost anything:</p>
+
+<ul>
+<li> Stick Shift?  Check!</li>
+<li> Motorcycle? Check!</li>
+<li> Bus? Check!</li>
+<li> Bike? Check!</li>
+<li> Plane?  &hellip;</li>
+<li> Helicopter? &hellip;</li>
+</ul>
+
+
+<p>Fortunately the last two aren&rsquo;t &lsquo;driving&rsquo; but they are still a gap for me.  I <em>should</em> be able to fly a plane.  So
+maybe eventually.</p>
+
+<p>OK, now that you can drive everything.  You should be driving whatever is drivable.  There might be better things,
+but if you have a fueled vehicle, you are in good shape.  Zombies are definitely slower than most vehicles out there.</p>
+
+<h2>Better</h2>
+
+<p>Now if you happen to have a few choices on vehicles, there are definitely better vehicles than other vehicles.
+The critical things you are looking for are:</p>
+
+<ul>
+<li> Fuel Type</li>
+<li> Speed!</li>
+<li> Momentum!</li>
+<li> Flexibility!</li>
+<li> Range!</li>
+</ul>
+
+
+<p>Pretty much, the first factor is the category of the vehicle (Gas, Electric, etc.) and after you pick that, you need to
+maximize the rest of the numbers.  Ideally you cover multiple fuel types and maximize all the rest.</p>
+
+<p>Strangely the universe has set me up to have the perfect combination of vehicles.  Again, I need to be careful of what
+I write about because it seems to come true.</p>
+
+<p>My current vehicle garage looks like this:</p>
+
+<ul>
+<li> Scion TC.  Gas.  Good Mileage.  Fast-ish.  Stealth-ish.  About 250 mile range.  Front-wheel drive.</li>
+<li> Range Rover HSE.  Gas.  Bad Mileage.  Can go through three feet of water.  About 300 mile range.  Four-wheel drive.</li>
+<li> Tesla P85D.  Electric.  Awesome Mileage.  Awesome speed.  0-60 in &lt;4 seconds.  About 300 mile range.  Both gas and solar refuel.  All-wheel drive.</li>
+<li> 2x Zero FX Motorcycle.  Electric.  Awesome mileage.  Awesome speed.  0-60 in some crazy number.  About 75 mile range.  Both gas and solar refuel.</li>
+</ul>
+
+
+<p>Several of the above I do not yet own, but that appears to be what my garage is meant to look like.  I am pretty sure that
+has most Apoc covered&hellip;  Gas and Electric.  Fast on road or able to be off-road.  Four and two wheel variants.</p>
+
+<p>I do love my Scion, but all the crazy-awesome things beneath it make the Scion even better.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Kendo]]></title>
