@@ -4,7 +4,7 @@
   <title><![CDATA[Zombie Apocolypse Survival Training (ZAST)]]></title>
   <link href="http://everzast.com/atom.xml" rel="self"/>
   <link href="http://everzast.com/"/>
-  <updated>2014-12-06T06:01:34-08:00</updated>
+  <updated>2014-12-06T19:25:56-08:00</updated>
   <id>http://everzast.com/</id>
   <author>
     <name><![CDATA[Mark Fussell]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Be Careful What You Write About (2)?]]></title>
+    <link href="http://everzast.com/blog/be-careful-what-you-write-about-2/"/>
+    <updated>2014-12-13T06:15:00-08:00</updated>
+    <id>http://everzast.com/blog/be-careful-what-you-write-about-2</id>
+    <content type="html"><![CDATA[<p>So my wife needed a new car to replace her persnickety Saab.  Long story short, I now also own a MB GL450.  Use it just
+for work until the Apoc.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Vehicle]]></title>
