@@ -4,7 +4,7 @@
   <title><![CDATA[Zombie Apocolypse Survival Training (ZAST)]]></title>
   <link href="http://everzast.com/atom.xml" rel="self"/>
   <link href="http://everzast.com/"/>
-  <updated>2014-12-06T19:25:56-08:00</updated>
+  <updated>2014-12-06T19:46:36-08:00</updated>
   <id>http://everzast.com/</id>
   <author>
     <name><![CDATA[Mark Fussell]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Iaido]]></title>
+    <link href="http://everzast.com/blog/iaido/"/>
+    <updated>2014-12-14T06:15:00-08:00</updated>
+    <id>http://everzast.com/blog/iaido</id>
+    <content type="html"><![CDATA[<p>Although Kendo is now &lsquo;dead&rsquo;, Iaido is still alive.  Iaido is a mostly solitary sword practice to prepare your Katana
+(or Iaito / unsharpened Katana) skill, your mental presence in a situation, and your ability to react <em>immediately</em>
+(basically mindlessly) to a threat.</p>
+
+<p>I went to an Iaido session, and although I disliked the pomp and circumstance, the practitioners and mage clearly
+are trying to get good with a sword and are quite skilled and knowledgeable.</p>
+
+<p>It meets every two weeks in my daughter&rsquo;s old ballet dance studio&hellip; interesting coincidence.  And it meets at a time
+that I am usually playing tennis.  So I will simply drop a tennis session every other week, and start practicing Iaido
+along with my daily ritual of tennis.  Wil do the pomp for the session with the mage, but the rest of the time I will
+be in my Fox uniform :-)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Be Careful What You Write About (2)?]]></title>
@@ -607,25 +626,6 @@ affected the hardness of my whatever.</p>
 
 <p>Do the sames girls, but it is hard for me to understand what your hotness sees in a balding wizard like me.  Guest lectures
 are quite welcome.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Site Launch!]]></title>
-    <link href="http://everzast.com/blog/site-launch/"/>
-    <updated>2014-11-25T18:15:00-08:00</updated>
-    <id>http://everzast.com/blog/site-launch</id>
-    <content type="html"><![CDATA[<p>I have been working on building up various skills, but wasn&rsquo;t really quite sure &lsquo;why?&rsquo;.  They started forming a pattern
-though, and just a few days ago I came up with the title: &ldquo;Zombie Apocalypse Training (or ZAT)&rdquo; and formally used
-that when I invited someone to join me for handgun training.</p>
-
-<p>I changed that to &lsquo;ZAP&rsquo; (Preparation) because that is more fun, but ultimately I had to get a URL.  Somehow I realized
-&lsquo;training&rsquo; by itself didn&rsquo;t make much sense: I am training to cause the Apoc?  No, I want my community to survive after
-the Apoc, so now I was up to &lsquo;ZAST&rsquo;.  That URL was for sale, but I didn&rsquo;t know the price and it was likely a few hundred dollars.</p>
-
-<p>One more shift and voila: EverZast&hellip; ZAST to last forever after the Apoc.</p>
-
-<p>Enjoy!</p>
 ]]></content>
   </entry>
   
