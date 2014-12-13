@@ -4,7 +4,7 @@
   <title><![CDATA[Zombie Apocolypse Survival Training (ZAST)]]></title>
   <link href="http://everzast.com/atom.xml" rel="self"/>
   <link href="http://everzast.com/"/>
-  <updated>2014-12-07T17:48:10-08:00</updated>
+  <updated>2014-12-13T02:53:52-08:00</updated>
   <id>http://everzast.com/</id>
   <author>
     <name><![CDATA[Mark Fussell]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zombie Gear!]]></title>
+    <link href="http://everzast.com/blog/zombie-gear/"/>
+    <updated>2014-12-16T06:15:00-08:00</updated>
+    <id>http://everzast.com/blog/zombie-gear</id>
+    <content type="html"><![CDATA[<p>This post contains other gear you might want and other sites that discuss preparation.  It started when I encountered
+&lsquo;ZAPS&rsquo; while reading through the web.</p>
+
+<ul>
+<li> <a href="http://www.zapsgear.com">http://www.zapsgear.com</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zombie Style!]]></title>
@@ -650,23 +665,6 @@ dull throwing axe, [keep going, I know you have it in you]</p>
 <p>If you see a neighbor&rsquo;s schnauzer think: food, paper fetcher (useless), pooper (maybe), supplier of poop for a catapult (getting somewhere), [&hellip;]</p>
 
 <p>Yes, being creative and being insane are not particularly distinguishable.  Sorry about that.  Try it out, or move along (Zombie fodder).</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Redundancy!]]></title>
-    <link href="http://everzast.com/blog/redundancy/"/>
-    <updated>2014-11-26T06:15:00-08:00</updated>
-    <id>http://everzast.com/blog/redundancy</id>
-    <content type="html"><![CDATA[<p>Strangely the second most important skill after &ldquo;Freeing Your Mind&rdquo; will be redundancy.</p>
-
-<p>Redundancy is the art of having a &ldquo;live&rdquo; equivalent or &ldquo;hot&rdquo; spare to basically everything.
-If you have this, and one item fails (Zombie Alert Warning System: ZAWS), then the backup item (ZAW2) is <em>incredibly</em>
-unlikely to fail at exactly the same time.   If ZAWS1 and ZAWS2 fail at <em>exactly</em> the same time, then you did not
-have a real ZAWS at all, and we will deal with avoiding that problem later (you do know what QA is right?).</p>
-
-<p>Redundancy is incredibly valuable in all things.  Except in marriage.  Monogamy is clearly superior.  But even then you
-should have a Hot Spare readily available.  Because you never know do you?  Zombies and all!</p>
 ]]></content>
   </entry>
   
