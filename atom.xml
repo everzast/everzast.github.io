@@ -4,7 +4,7 @@
   <title><![CDATA[Zombie Apocolypse Survival Training (ZAST)]]></title>
   <link href="http://everzast.com/atom.xml" rel="self"/>
   <link href="http://everzast.com/"/>
-  <updated>2015-01-17T09:52:56-08:00</updated>
+  <updated>2015-02-01T12:21:24-08:00</updated>
   <id>http://everzast.com/</id>
   <author>
     <name><![CDATA[Mark Fussell]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Aiki Jujitsu]]></title>
+    <link href="http://everzast.com/blog/aiki-jujitsu/"/>
+    <updated>2015-02-01T06:15:00-08:00</updated>
+    <id>http://everzast.com/blog/aiki-jujitsu</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zombie Gear!]]></title>
@@ -23,6 +32,40 @@
 
 <ul>
 <li> <a href="http://www.zapsgear.com">http://www.zapsgear.com</a></li>
+</ul>
+
+
+<p>In terms of other gear, you can divide it into a few different categories:</p>
+
+<ul>
+<li> Individual Survival and Effectiveness
+
+<ul>
+<li>Proper winter clothing, shoes, hats, gloves (winter and working), maybe swimming needs, etc.   This you can mostly get from REI, Sports Basement, and similar good camping and gear stores</li>
+</ul>
+</li>
+<li> Group Survival
+
+<ul>
+<li>Tents, water conversions, vehicles capable of moving groups of people, packs able to transport water and other devices, water purifiers, etc.</li>
+<li>Food acquisition tools: fishing, hunting, foraging, and hunting.</li>
+<li>Note a lot of these would help the individual, but you should probably be thinking &ldquo;group&rdquo; when getting them.  A one-person tent is nice but not that helpful for groups.</li>
+<li>Again, REI and similar stores are a good source</li>
+</ul>
+</li>
+<li> Defense gear
+
+<ul>
+<li>This could be traps, fences, and the like.  Or defensive weaponry.</li>
+</ul>
+</li>
+<li> Offensive gear
+
+<ul>
+<li>This would be more serious weaponry that can &lsquo;assault&rsquo; zombies who control important positions or buildings</li>
+<li>This isn&rsquo;t an area I am particularly concerned with</li>
+</ul>
+</li>
 </ul>
 
 ]]></content>
@@ -636,22 +679,6 @@ are really mobile.</p>
 
 <p>I would also say &lsquo;Shun really heavy things&rsquo; like pianos.  My daughters can play the piano, but they also can play the flute
 and violin.  Much more portable.  Pianos are good sources of: &lsquo;wood&rsquo;, &lsquo;wires&rsquo;, &lsquo;plastic&rsquo;, &lsquo;planks&rsquo;, &lsquo;metal&rsquo;, &lsquo;coffins&rsquo;, [come on, I know you can do it]</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Creativity!]]></title>
-    <link href="http://everzast.com/blog/creativity/"/>
-    <updated>2014-11-27T06:15:00-08:00</updated>
-    <id>http://everzast.com/blog/creativity</id>
-    <content type="html"><![CDATA[<p>Next, you have to be creative.  But no cannibalism.</p>
-
-<p>If you see a hammer think: hammer, piece of wood, piece of metal, tiny crutch for a schnauzer, poorly weighted and very
-dull throwing axe, [keep going, I know you have it in you]</p>
-
-<p>If you see a neighbor&rsquo;s schnauzer think: food, paper fetcher (useless), pooper (maybe), supplier of poop for a catapult (getting somewhere), [&hellip;]</p>
-
-<p>Yes, being creative and being insane are not particularly distinguishable.  Sorry about that.  Try it out, or move along (Zombie fodder).</p>
 ]]></content>
   </entry>
   
